@@ -1,2 +1,2 @@
 # ML-Regression-Classification-Reecho
-This repository, maintained by ReechoOrg, contains solution note
+This repository, maintained by ReechoOrg, contains solution notebooks for Course 1 of Machine Learning Specialization taught on Coursera. This repository has two notebooks, one for week 2 graded lab and one for week 3 graded lab. Feel free to refer if you need help with graded evaluations.
